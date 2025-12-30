@@ -1,0 +1,435 @@
+{
+  "intents": [
+    {
+      "subject": "Biology",
+      "chapter": "Life Processes",
+      "intent": "definition_of_human_nutrition",
+      "utterances": [
+        "What is human nutrition?",
+        "Define human nutrition.",
+        "What do you mean by human nutrition?",
+        "Explain human nutrition.",
+        "Write the definition of human nutrition."
+      ],
+      "response": "Human nutrition is the process by which humans intake food and utilize it for energy, growth, repair, and maintenance of the body."
+    },
+    {
+      "subject": "Biology",
+      "chapter": "Life Processes",
+      "intent": "definition_of_ingestion",
+      "utterances": [
+        "What is ingestion?",
+        "Define ingestion.",
+        "What do you mean by ingestion?",
+        "Explain ingestion.",
+        "Write the definition of ingestion."
+      ],
+      "response": "Ingestion is the process of taking food into the body through the mouth."
+    },
+    {
+      "subject": "Biology",
+      "chapter": "Life Processes",
+      "intent": "definition_of_digestion",
+      "utterances": [
+        "What is digestion?",
+        "Define digestion.",
+        "What do you mean by digestion?",
+        "Explain digestion.",
+        "Write the definition of digestion."
+      ],
+      "response": "Digestion is the process of breaking down complex food substances into simpler, soluble forms that can be absorbed by the body."
+    },
+    {
+      "subject": "Biology",
+      "chapter": "Life Processes",
+      "intent": "definition_of_absorption",
+      "utterances": [
+        "What is absorption?",
+        "Define absorption.",
+        "What do you mean by absorption?",
+        "Explain absorption.",
+        "Write the definition of absorption."
+      ],
+      "response": "Absorption is the process by which digested food passes into the blood through the walls of the small intestine."
+    },
+    {
+      "subject": "Biology",
+      "chapter": "Life Processes",
+      "intent": "definition_of_assimilation",
+      "utterances": [
+        "What is assimilation?",
+        "Define assimilation.",
+        "What do you mean by assimilation?",
+        "Explain assimilation.",
+        "Write the definition of assimilation."
+      ],
+      "response": "Assimilation is the process by which absorbed food is utilized by body cells for energy, growth, and repair."
+    },
+    {
+      "subject": "Biology",
+      "chapter": "Life Processes",
+      "intent": "definition_of_egestion",
+      "utterances": [
+        "What is egestion?",
+        "Define egestion.",
+        "What do you mean by egestion?",
+        "Explain egestion.",
+        "Write the definition of egestion."
+      ],
+      "response": "Egestion is the process of removing undigested food from the body through the anus."
+    },
+    {
+      "subject": "Biology",
+      "chapter": "Life Processes",
+      "intent": "definition_of_photosynthesis",
+      "utterances": [
+        "What is photosynthesis?",
+        "Define photosynthesis.",
+        "What do you mean by photosynthesis?",
+        "Explain photosynthesis.",
+        "Write the definition of photosynthesis."
+      ],
+      "response": "Photosynthesis is the process by which green plants prepare their own food from carbon dioxide and water using sunlight in the presence of chlorophyll."
+    },
+    {
+      "subject": "Biology",
+      "chapter": "Life Processes",
+      "intent": "raw_materials_for_photosynthesis",
+      "utterances": [
+        "What are the raw materials for photosynthesis?",
+        "Name the raw materials needed for photosynthesis.",
+        "Which substances are required for photosynthesis?",
+        "List the raw materials for photosynthesis.",
+        "What materials are used in photosynthesis?"
+      ],
+      "response": "The raw materials required for photosynthesis are carbon dioxide and water. Sunlight and chlorophyll are essential conditions for the process."
+    },
+    {
+      "subject": "Biology",
+      "chapter": "Life Processes",
+      "intent": "definition_of_respiration",
+      "utterances": [
+        "What is respiration?",
+        "Define respiration.",
+        "What do you mean by respiration?",
+        "Explain respiration.",
+        "Write the definition of respiration."
+      ],
+      "response": "Respiration is the process of breaking down food to release energy for carrying out various life activities."
+    },
+    {
+      "subject": "Biology",
+      "chapter": "Life Processes",
+      "intent": "definition_of_aerobic_respiration",
+      "utterances": [
+        "What is aerobic respiration?",
+        "Define aerobic respiration.",
+        "What do you mean by aerobic respiration?",
+        "Explain aerobic respiration.",
+        "Write the definition of aerobic respiration."
+      ],
+      "response": "Aerobic respiration is the process of respiration that takes place in the presence of oxygen and releases a large amount of energy."
+    },
+    {
+      "subject": "Biology",
+      "chapter": "Life Processes",
+      "intent": "definition_of_anaerobic_respiration",
+      "utterances": [
+        "What is anaerobic respiration?",
+        "Define anaerobic respiration.",
+        "What do you mean by anaerobic respiration?",
+        "Explain anaerobic respiration.",
+        "Write the definition of anaerobic respiration."
+      ],
+      "response": "Anaerobic respiration is the process of respiration that takes place in the absence of oxygen and releases less energy."
+    },
+
+    {
+      "subject": "Chemistry",
+      "chapter": "Acids, Bases and Salts",
+      "intent": "definition_of_salts",
+      "utterances": [
+        "What are salts?",
+        "Define salts.",
+        "What is meant by salts in chemistry?",
+        "Explain salts.",
+        "Write the definition of salts."
+      ],
+      "response": "Salts are compounds formed when an acid reacts with a base in a neutralization reaction. They are made up of positive and negative ions. Examples include sodium chloride, copper sulphate, and sodium carbonate."
+    },
+    {
+      "subject": "Chemistry",
+      "chapter": "Acids, Bases and Salts",
+      "intent": "preparation_of_washing_soda",
+      "utterances": [
+        "How is washing soda prepared?",
+        "Explain the preparation of washing soda.",
+        "Write the method of preparation of washing soda.",
+        "How do we obtain washing soda?",
+        "Describe preparation of washing soda."
+      ],
+      "response": "Washing soda is prepared from sodium carbonate. First, sodium carbonate is obtained by heating sodium hydrogen carbonate. Sodium carbonate is then recrystallized to form washing soda (Na2CO3·10H2O)."
+    },
+    {
+      "subject": "Chemistry",
+      "chapter": "Acids, Bases and Salts",
+      "intent": "uses_of_washing_soda",
+      "utterances": [
+        "What are the uses of washing soda?",
+        "Write uses of washing soda.",
+        "List the uses of washing soda.",
+        "Mention the applications of washing soda.",
+        "What is washing soda used for?"
+      ],
+      "response": "Washing soda is used as a cleaning agent for washing clothes. It is used in the manufacture of glass, soap, and paper. It is used to soften hard water. It is used in the preparation of sodium compounds."
+    },
+    {
+      "subject": "Chemistry",
+      "chapter": "Acids, Bases and Salts",
+      "intent": "preparation_of_baking_soda",
+      "utterances": [
+        "How is baking soda prepared?",
+        "Explain the preparation of baking soda.",
+        "Write the method of preparation of baking soda.",
+        "How do we prepare baking soda?",
+        "Describe preparation of baking soda."
+      ],
+      "response": "Baking soda is prepared by passing carbon dioxide through a solution of sodium chloride and ammonia in water. Sodium hydrogen carbonate is formed, which is filtered and dried to obtain baking soda."
+    },
+    {
+      "subject": "Chemistry",
+      "chapter": "Acids, Bases and Salts",
+      "intent": "uses_of_baking_soda",
+      "utterances": [
+        "What are the uses of baking soda?",
+        "Write uses of baking soda.",
+        "List the uses of baking soda.",
+        "Mention applications of baking soda.",
+        "What is baking soda used for?"
+      ],
+      "response": "Baking soda is used in baking to make cakes and bread soft and fluffy. It is used as an antacid to relieve acidity. It is used in soda-acid fire extinguishers."
+    },
+    {
+      "subject": "Chemistry",
+      "chapter": "Acids, Bases and Salts",
+      "intent": "definition_of_plaster_of_paris",
+      "utterances": [
+        "What is plaster of Paris?",
+        "Define plaster of Paris.",
+        "What do you mean by plaster of Paris?",
+        "Explain plaster of Paris.",
+        "Write the definition of plaster of Paris."
+      ],
+      "response": "Plaster of Paris is a white powder obtained by heating gypsum at 100–120°C. Its chemical name is calcium sulphate hemihydrate (CaSO4·1/2H2O)."
+    },
+    {
+      "subject": "Chemistry",
+      "chapter": "Acids, Bases and Salts",
+      "intent": "preparation_of_plaster_of_paris",
+      "utterances": [
+        "How is plaster of Paris prepared?",
+        "Explain the preparation of plaster of Paris.",
+        "Write the method of preparation of plaster of Paris.",
+        "How do we prepare plaster of Paris?",
+        "Describe preparation of plaster of Paris."
+      ],
+      "response": "Plaster of Paris is prepared by heating gypsum at 100–120°C. On heating, gypsum loses water molecules and forms calcium sulphate hemihydrate, which is plaster of Paris."
+    },
+    {
+      "subject": "Chemistry",
+      "chapter": "Acids, Bases and Salts",
+      "intent": "uses_of_plaster_of_paris",
+      "utterances": [
+        "What are the uses of plaster of Paris?",
+        "Write uses of plaster of Paris.",
+        "List the uses of plaster of Paris.",
+        "Mention applications of plaster of Paris.",
+        "What is plaster of Paris used for?"
+      ],
+      "response": "Plaster of Paris is used to make toys, decorative items, and statues. It is used for making moulds for pottery and ceramics. It is used in hospitals to make plaster casts for broken bones."
+    },
+
+    {
+      "subject": "Physics",
+      "chapter": "Light – Reflection and Refraction",
+      "intent": "definition_of_reflection_of_light",
+      "utterances": [
+        "What is reflection of light?",
+        "Define reflection of light.",
+        "What do you mean by reflection of light?",
+        "Explain reflection of light.",
+        "Write the definition of reflection of light."
+      ],
+      "response": "Reflection of light is the phenomenon in which light rays bounce back into the same medium after striking a surface."
+    },
+    {
+      "subject": "Physics",
+      "chapter": "Light – Reflection and Refraction",
+      "intent": "definition_of_refraction_of_light",
+      "utterances": [
+        "What is refraction of light?",
+        "Define refraction of light.",
+        "What do you mean by refraction of light?",
+        "Explain refraction of light.",
+        "Write the definition of refraction of light."
+      ],
+      "response": "Refraction of light is the bending of light when it passes from one medium to another due to a change in its speed."
+    },
+    {
+      "subject": "Physics",
+      "chapter": "Light – Reflection and Refraction",
+      "intent": "definition_of_principal_axis",
+      "utterances": [
+        "What is principal axis?",
+        "Define principal axis.",
+        "What do you mean by principal axis of a mirror?",
+        "Explain principal axis.",
+        "Write the definition of principal axis."
+      ],
+      "response": "The principal axis is the straight line passing through the pole and the centre of curvature of a spherical mirror."
+    },
+    {
+      "subject": "Physics",
+      "chapter": "Light – Reflection and Refraction",
+      "intent": "definition_of_centre_of_curvature",
+      "utterances": [
+        "What is centre of curvature?",
+        "Define centre of curvature.",
+        "What do you mean by centre of curvature of a mirror?",
+        "Explain centre of curvature.",
+        "Write the definition of centre of curvature."
+      ],
+      "response": "The centre of curvature is the centre of the sphere of which the reflecting surface of a spherical mirror is a part."
+    },
+    {
+      "subject": "Physics",
+      "chapter": "Light – Reflection and Refraction",
+      "intent": "definition_of_principal_focus",
+      "utterances": [
+        "What is principal focus?",
+        "Define principal focus.",
+        "What do you mean by principal focus of a mirror?",
+        "Explain principal focus.",
+        "Write the definition of principal focus."
+      ],
+      "response": "The principal focus is the point on the principal axis where parallel rays of light either converge or appear to diverge after reflection from a spherical mirror."
+    },
+    {
+      "subject": "Physics",
+      "chapter": "Light – Reflection and Refraction",
+      "intent": "definition_of_focal_length",
+      "utterances": [
+        "What is focal length?",
+        "Define focal length.",
+        "What do you mean by focal length of a mirror?",
+        "Explain focal length.",
+        "Write the definition of focal length."
+      ],
+      "response": "The focal length is the distance between the pole of a mirror and its principal focus."
+    },
+    {
+      "subject": "Physics",
+      "chapter": "Light – Reflection and Refraction",
+      "intent": "definition_of_magnification",
+      "utterances": [
+        "What is magnification?",
+        "Define magnification.",
+        "What do you mean by magnification in mirrors?",
+        "Explain magnification.",
+        "Write the definition of magnification."
+      ],
+      "response": "Magnification is the ratio of the height of the image to the height of the object formed by a mirror or lens."
+    },
+    {
+      "subject": "Physics",
+      "chapter": "Light – Reflection and Refraction",
+      "intent": "ray_diagram_concave_mirror_object_at_infinity",
+      "utterances": [
+        "Ray diagram for concave mirror with object at infinity",
+        "Draw ray diagram for concave mirror when object is at infinity",
+        "Explain ray diagram of concave mirror for object at infinity",
+        "Image formation by concave mirror for object at infinity",
+        "Concave mirror ray diagram object at infinity"
+      ],
+      "response": "When an object is placed at infinity, parallel rays fall on a concave mirror and converge at the principal focus after reflection. The image is formed at the focus, is real, inverted, and highly diminished."
+    },
+    {
+      "subject": "Physics",
+      "chapter": "Light – Reflection and Refraction",
+      "intent": "ray_diagram_concave_mirror_object_beyond_centre_of_curvature",
+      "utterances": [
+        "Ray diagram for concave mirror with object beyond C",
+        "Draw ray diagram when object is beyond centre of curvature",
+        "Image formation by concave mirror beyond C",
+        "Explain concave mirror ray diagram beyond C",
+        "Concave mirror object beyond centre of curvature"
+      ],
+      "response": "When the object is placed beyond the centre of curvature of a concave mirror, the image is formed between the focus and the centre of curvature. The image is real, inverted, and diminished."
+    },
+    {
+      "subject": "Physics",
+      "chapter": "Light – Reflection and Refraction",
+      "intent": "ray_diagram_concave_mirror_object_at_centre_of_curvature",
+      "utterances": [
+        "Ray diagram for concave mirror with object at C",
+        "Draw ray diagram for object at centre of curvature",
+        "Image formation by concave mirror at C",
+        "Explain concave mirror ray diagram at C",
+        "Concave mirror object at centre of curvature"
+      ],
+      "response": "When the object is placed at the centre of curvature of a concave mirror, the image is formed at the centre of curvature. The image is real, inverted, and of the same size as the object."
+    },
+    {
+      "subject": "Physics",
+      "chapter": "Light – Reflection and Refraction",
+      "intent": "ray_diagram_concave_mirror_object_between_focus_and_pole",
+      "utterances": [
+        "Ray diagram for concave mirror with object between F and P",
+        "Draw ray diagram for concave mirror when object is between focus and pole",
+        "Explain image formation by concave mirror between F and P",
+        "Concave mirror ray diagram object between focus and pole",
+        "Image formation by concave mirror when object is between F and P"
+      ],
+      "response": "When the object is placed between the focus and the pole of a concave mirror, the image is formed behind the mirror. The image is virtual, erect, and enlarged."
+    },
+    {
+      "subject": "Physics",
+      "chapter": "Light – Reflection and Refraction",
+      "intent": "ray_diagram_convex_mirror",
+      "utterances": [
+        "Ray diagram for convex mirror",
+        "Draw ray diagram of convex mirror",
+        "Explain image formation by convex mirror",
+        "Image formation in convex mirror",
+        "Convex mirror ray diagram"
+      ],
+      "response": "In a convex mirror, the image is always formed behind the mirror between the pole and the focus. The image is virtual, erect, and diminished, irrespective of the position of the object."
+    },
+    {
+      "subject": "Physics",
+      "chapter": "Light – Reflection and Refraction",
+      "intent": "ray_diagram_convex_lens_object_at_infinity",
+      "utterances": [
+        "Ray diagram for convex lens with object at infinity",
+        "Draw ray diagram for convex lens object at infinity",
+        "Explain image formation by convex lens at infinity",
+        "Convex lens ray diagram object at infinity",
+        "Image formation in convex lens at infinity"
+      ],
+      "response": "When an object is placed at infinity, parallel rays pass through a convex lens and converge at the principal focus on the other side. The image formed is real, inverted, and highly diminished."
+    },
+    {
+      "subject": "Physics",
+      "chapter": "Light – Reflection and Refraction",
+      "intent": "ray_diagram_concave_lens",
+      "utterances": [
+        "Ray diagram for concave lens",
+        "Draw ray diagram of concave lens",
+        "Explain image formation by concave lens",
+        "Image formed by concave lens",
+        "Concave lens ray diagram"
+      ],
+      "response": "In a concave lens, the image is always formed on the same side of the lens between the optical centre and the focus. The image is virtual, erect, and diminished for all object positions."
+    }
+  ]
+}
