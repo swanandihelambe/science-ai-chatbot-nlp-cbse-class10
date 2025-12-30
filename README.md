@@ -4,6 +4,7 @@ An AI-powered chatbot designed to answer **CBSE Class 10 Science definitions** u
 
 This project was built to provide **clear, exam-oriented, short-step answers** for Biology, Chemistry, and Physics — something I personally struggled to find during my Class 10 board preparation.
 
+This project focuses on foundational NLP techniques and is extendable to Transformer-based models in future iterations.
 ---
 
 ## 🚀 Features
